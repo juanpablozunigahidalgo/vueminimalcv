@@ -2,5 +2,7 @@
     "cv": "Curriculum Vitae",
     "projects": "Opera",
     "blog": "Blog",
-    "contact": "Contactus"
-  }
+    "contact": "Contactus",
+    "about": "Circa locum",
+    "text-about":"This website was made with VUE framework. Github pages. Language options are stored locally with json objects."
+}

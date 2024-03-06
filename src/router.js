@@ -7,6 +7,7 @@ import Projects from './views/ProjectsPage.vue';
 import Blog from './views/BlogPage.vue';
 import Contact from './views/ContactPage.vue';
 import Mainview from './views/MainviewPage.vue';
+import About from './views/AboutSite.vue';
 
 // Define routes
 const routes = [
@@ -25,7 +26,8 @@ const routes = [
   { path: '/:lang/cv', component: CV },
   { path: '/:lang/projects', component: Projects },
   { path: '/:lang/blog', component: Blog },
-  { path: '/:lang/contact', component: Contact }
+  { path: '/:lang/contact', component: Contact },
+  { path: '/:lang/about', component: About }
 ];
 
 

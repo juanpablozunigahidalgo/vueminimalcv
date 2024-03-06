@@ -15,6 +15,7 @@ export default {
   font-family: Consolas, monospace;
   text-align: center;
   color: #fff;
-  margin-top: 60px;
+  margin-top: 40px;
+  height: 100%;
 }
 </style>
