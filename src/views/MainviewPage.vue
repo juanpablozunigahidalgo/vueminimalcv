@@ -1,22 +1,30 @@
 <template>
   <div class="main-page">
-    <div class="language-selection">
-      <div class="custom-select" @click="toggleDropdown" ref="dropdown">
-        <div class="selected-option">{{ selectedLanguage }}</div>
-        <ul v-if="isDropdownOpen" class="dropdown-menu" :style="{ minWidth: dropdownWidth + 'px' }">
-          <li v-for="(lang, index) in supportedLanguages" :key="index" @click="selectLanguage(lang.label)">{{ capitalize(lang.label) }}</li>
-        </ul>
-      </div>
-    </div>
-    <div class="links">
-      <router-link :to="`/${selectedLanguage.toLowerCase()}/cv`" class="link">{{ langData.cv }}</router-link>
-      <router-link :to="`/${selectedLanguage.toLowerCase()}/projects`" class="link">{{ langData.projects }}</router-link>
-      <router-link :to="`/${selectedLanguage.toLowerCase()}/blog`" class="link">{{ langData.blog }}</router-link>
-      <router-link :to="`/${selectedLanguage.toLowerCase()}/contact`" class="link">{{ langData.contact }}</router-link>
-    </div>
-    <div class="about-site">
-      <router-link :to="`/${selectedLanguage.toLowerCase()}/about`" class="about-link">{{ langData.about }}</router-link>
-    </div>
+    <table class="table-layout">
+      <tr>
+        <td colspan="2" class="language-selection">
+          <div class="custom-select" @click="toggleDropdown" ref="dropdown">
+            <div class="selected-option">{{ selectedLanguage }}</div>
+            <ul v-if="isDropdownOpen" class="dropdown-menu" :style="{ minWidth: dropdownWidth + 'px' }">
+              <li v-for="(lang, index) in supportedLanguages" :key="index" @click="selectLanguage(lang.label)">{{ capitalize(lang.label) }}</li>
+            </ul>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td class="links">
+          <router-link :to="`/${selectedLanguage.toLowerCase()}/cv`" class="link">{{ langData.cv }}</router-link>
+          <router-link :to="`/${selectedLanguage.toLowerCase()}/projects`" class="link">{{ langData.projects }}</router-link>
+          <router-link :to="`/${selectedLanguage.toLowerCase()}/blog`" class="link">{{ langData.blog }}</router-link>
+          <router-link :to="`/${selectedLanguage.toLowerCase()}/contact`" class="link">{{ langData.contact }}</router-link>
+        </td>
+      </tr>
+      <tr>
+        <td class="about-site" colspan="2">
+          <router-link :to="`/${selectedLanguage.toLowerCase()}/about`" class="about-link">{{ langData.about }}</router-link>
+        </td>
+      </tr>
+    </table>
   </div>
 </template>
 
@@ -92,16 +100,18 @@ export default {
 </script>
 
 <style scoped>
-
 .main-page {
   max-width: 100%;
+  height: 95vh;
   margin: 0 auto;
-  padding-bottom: 10%; /* Set bottom padding to occupy 10% of the viewport height */
+  padding-bottom: 0; /* Set bottom padding to occupy 10% of the viewport height */
+  position: relative;
+}
+.table-layout {
+  width: 100%;
 }
 
 .language-selection {
-  margin-bottom: 20px;
-  margin-right: 10%;
   text-align: right;
 }
 
@@ -145,42 +155,37 @@ export default {
 }
 
 .links {
-  max-width: 400px;
-  position: fixed;
+  position: absolute;
   left: 10%;
-  top: 0;
-  display: flex;
-  flex-direction: column;
+  top: 30%;
+  align-items:start ;
+  display:flex;
+  flex-direction: column; 
+  justify-content: flex-start;
   align-items: flex-start;
-  padding-top: 12%;
-}
-@media (max-width: 1000px) {
-  .links {
-    padding-top: 30%; /* Padding top for smaller screens */
-  }
 }
 
-.about-site {
-  max-width: 400px;
-  position: fixed;
-  bottom:0;
-  left: 10%;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  height: 10%;
-}
-
-.link, .about-link {
-  margin-bottom: 1px;
+.link {
+  display: block;
+  margin-bottom: 0;
   color: black;
   text-decoration: none;
   font-family: Consolas, monospace;
   font-size: 12px;
 }
 
-.about-link:hover, .link:hover {
-  text-decoration: none;
+.about-site {
+  position: absolute;
+  left: 10%;
+  bottom: 10%;
 }
 
+.about-link {
+  display: block;
+  margin-bottom: 10px;
+  color: black;
+  text-decoration: none;
+  font-family: Consolas, monospace;
+  font-size: 12px;
+}
 </style>

@@ -4,5 +4,12 @@
     "blog": "Rikch'ay",
     "contact": "Kuskakuy",
     "about":"Sitimanta",
-    "text-about":"This website was made with VUE framework. Github pages. Language options are stored locally with json objects."
-}
+    "text-about":"Kay web qillqasqata VUE qipiwan ruwarqani. Github p'anqakuna. Simi akllanakunaqa lokalpi json uyachakunawan waqaychasqa kashan. Nuqapaqqa, huk minimalista diseño teqsimuyuntin simi akllanakunawan kananpaq munayniyku karqan, i18 atiykunata t'ikrachispa.",
+    "contactdata": {
+        "email": "juanpablo.zunigah@gmail.com",
+        "phone": "+46729971641",
+        "address": "Gothenburg, Sweden. Santiago, Chile.",
+        "linkedin": "https://se.linkedin.com/in/jpzuniga",
+        "github": "https://github.com/juanpablozunigahidalgo/"
+      }
+    }

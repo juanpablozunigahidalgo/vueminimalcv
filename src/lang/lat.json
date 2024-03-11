@@ -4,5 +4,12 @@
     "blog": "Blog",
     "contact": "Contactus",
     "about": "Circa locum",
-    "text-about":"This website was made with VUE framework. Github pages. Language options are stored locally with json objects."
-}
+    "text-about":"Hoc situm interretialem cum structura VUE feci. Paginae Github. Optiones linguae locale cum objectis json reconduntur. Designationem minimalisticam adsequi volo cum pluribus optionibus linguae cum capacitates i18 explorarem.",
+    "contactdata": {
+        "email": "juanpablo.zunigah@gmail.com",
+        "phone": "+46729971641",
+        "address": "Gothenburg, Sweden. Santiago, Chile.",
+        "linkedin": "https://se.linkedin.com/in/jpzuniga",
+        "github": "https://github.com/juanpablozunigahidalgo/"
+      }
+    }

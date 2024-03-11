@@ -5,5 +5,12 @@
     "blog": "Blogg",
     "contact": "Kontakt",
     "about":"Om webbplatsen",
-    "text-about":"This website was made with VUE framework. Github pages. Language options are stored locally with json objects."
+    "text-about":"Jag skapade denna webbsida med Vue.js framework. Github-sidor. Språkalternativ lagras lokalt med json-objekt. Jag siktar på en minimalistisk design med flera språkalternativ eftersom jag utforskade i18-förmågor.",
+    "contactdata": {
+        "email": "juanpablo.zunigah@gmail.com",
+        "phone": "+46729971641",
+        "address": "Gothenburg, Sweden. Santiago, Chile.",
+        "linkedin": "https://se.linkedin.com/in/jpzuniga",
+        "github": "https://github.com/juanpablozunigahidalgo/"
+      }
 }

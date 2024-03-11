@@ -70,7 +70,7 @@ onMounted(() => {
   min-width: 200px;
   position: fixed;
   left: 10%;
-  right: 10%;
+  right: 30%;
   top: 0;
   padding-top: 12%;
   display: flex;
@@ -80,6 +80,7 @@ onMounted(() => {
 @media (max-width: 1000px) {
   .links {
     padding-top: 30%; /* Padding top for smaller screens */
+    right: 10%;
   }
 }
 .links p {
