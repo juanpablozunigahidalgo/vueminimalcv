@@ -2,8 +2,6 @@
   <div class="main-page">
     <div class="links" v-if="langData.contactdata">
       <p>{{ langData.contactdata.email }}</p>
-      <p>{{ langData.contactdata.phone }}</p>
-      <p>{{ langData.contactdata.address }}</p>
       <p>{{ langData.contactdata.linkedin }}</p>
       <p>{{ langData.contactdata.github }}</p>
     </div>

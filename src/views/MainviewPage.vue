@@ -155,9 +155,10 @@ export default {
 }
 
 .links {
+  padding: 0;
   position: absolute;
   left: 10%;
-  top: 30%;
+  top: 200px;
   align-items:start ;
   display:flex;
   flex-direction: column; 
