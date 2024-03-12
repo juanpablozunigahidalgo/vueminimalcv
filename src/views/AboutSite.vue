@@ -37,7 +37,7 @@ function changeLanguage(selectedLanguage) {
     case 'italian':
       langJson = it;
       break;
-    case 'latin':
+    case 'latin.r':
       langJson = lat;
       break;
     case 'quechua':

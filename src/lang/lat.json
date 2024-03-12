@@ -4,12 +4,21 @@
     "blog": "Blog",
     "contact": "Contactus",
     "about": "Circa locum",
-    "text-about":"Hoc situm interretialem cum structura VUE feci. Paginae Github. Optiones linguae locale cum objectis json reconduntur. Designationem minimalisticam adsequi volo cum pluribus optionibus linguae cum capacitates i18 explorarem.",
+    "text-about":"Hoc website utens Vue.js compage creavi. Paginarum Github. Optiones linguae localiter conditae cum obiectis json. Propositum meum est minimalist propositum cum multiplici optione linguae.",
     "contactdata": {
         "email": "juanpablo.zunigah@gmail.com",
         "phone": "+46729971641",
         "address": "Gothenburg, Sweden. Santiago, Chile.",
         "linkedin": "https://se.linkedin.com/in/jpzuniga",
         "github": "https://github.com/juanpablozunigahidalgo/"
-      }
+      },
+      "cv-headings": {
+        "abstract": "Abstractum",
+        "professionalexperience": "Experientia Professionalis",
+        "formaleducation": "Doctrina Formalis",
+        "coursesandcertifications": "Cursus et Testimonia",
+        "competenceoverview": "Perspectiva Competentiarum",
+        "skills": "Peritia",
+        "personalinformation": "Informatio Personalis"
+    }
     }

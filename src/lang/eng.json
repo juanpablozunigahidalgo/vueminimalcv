@@ -4,12 +4,21 @@
   "blog": "Blog",
   "contact": "Contact",
   "about":"About the site",
-  "text-about":"I developed this website using the Vue.js framework, hosted on GitHub Pages. The language options are stored locally in JSON objects. My aim was to achieve a minimalist design while incorporating multiple language options, leveraging the capabilities of i18n.",
+  "text-about":"I developed this website using the Vue.js framework, hosted on GitHub Pages. The language options are stored locally in JSON objects. My aim was to achieve a minimalist design while incorporating multiple language options.",
   "contactdata": {
     "email": "juanpablo.zunigah@gmail.com",
     "phone": "+46729971641",
     "address": "Gothenburg, Sweden. Santiago, Chile.",
     "linkedin": "https://se.linkedin.com/in/jpzuniga",
     "github": "https://github.com/juanpablozunigahidalgo/"
+  },
+  "cv-headings": {
+    "abstract": "Abstract",
+    "professionalexperience": "Professional Expericence",
+    "formaleducation": "Formal Education",
+    "coursesandcertifications": "Courses and Certifications",
+    "competenceoverview": "Competence Overview",
+    "skills": "Skills",
+    "personalinformation": "Personal Information"
   }
 }

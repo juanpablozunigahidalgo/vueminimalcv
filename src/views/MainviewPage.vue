@@ -32,7 +32,6 @@
 import eng from "@/lang/eng.json";
 import it from "@/lang/it.json";
 import lat from "@/lang/lat.json";
-import quechua from "@/lang/quechua.json";
 import sv from "@/lang/sv.json";
 import esp from "@/lang/esp.json";
 
@@ -45,8 +44,7 @@ export default {
         { label: "English", value: "english" },
         { label: "Spanish", value: "spanish" },
         { label: "Italian", value: "italian" },
-        { label: "Latin", value: "latin" },
-        { label: "Quechua", value: "quechua" },
+        { label: "Latin.r", value: "latin" },
         { label: "Swedish", value: "swedish" }
       ],
       langData: eng, // Default language data
@@ -78,11 +76,8 @@ export default {
         case 'italian':
           langJson = it;
           break;
-        case 'latin':
+        case 'latin.r':
           langJson = lat;
-          break;
-        case 'quechua':
-          langJson = quechua;
           break;
         case 'swedish':
           langJson = sv;

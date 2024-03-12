@@ -4,12 +4,21 @@
     "blog": "Blog",
     "contact": "Contatto",
     "about":"Informazioni sul sito",
-    "text-about":"Ho realizzato questo sito web con il framework VUE. Pagine Github. Le opzioni di lingua sono memorizzate localmente con oggetti json. Il mio obiettivo è un design minimalista con più opzioni di lingua mentre esploravo le capacità di i18n.",
+    "text-about":"Ho creato questo sito Web utilizzando il framework Vue.js. Pagine Github. Le opzioni della lingua vengono archiviate localmente con oggetti JSON. Il mio obiettivo è un design minimalista con più opzioni linguistiche.",
     "contactdata": {
         "email": "juanpablo.zunigah@gmail.com",
         "phone": "+46729971641",
         "address": "Gothenburg, Sweden. Santiago, Chile.",
         "linkedin": "https://se.linkedin.com/in/jpzuniga",
         "github": "https://github.com/juanpablozunigahidalgo/"
-      }
+      },
+      "cv-headings": {
+        "abstract": "Abstract",
+        "professionalexperience": "Esperienza Professionale",
+        "formaleducation": "Educazione Formale",
+        "coursesandcertifications": "Corsi e Certificazioni",
+        "competenceoverview": "Panoramica delle Competenze",
+        "skills": "Competenze",
+        "personalinformation": "Informazioni Personali"
+    }
     }
