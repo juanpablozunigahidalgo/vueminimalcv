@@ -5,38 +5,38 @@
       <tr>
         <td colspan="2" class="links">
           <!-- <h3 class="heading">{{ cv.name }}</h3> -->
-          <h3 class="heading-1">Abstract</h3>
+          <h3 class="heading-1">{{cv.cvheadings.abstract}}</h3>
           <p>{{ cv.summary }}</p>
-          <h3 class="heading">Professional Experience</h3>
+          <h3 class="heading">{{cv.cvheadings.professionalexperience}}</h3>
           <ul class="no-bullets"> <!-- Added class "no-bullets" -->
             <li v-for="experience in cv.professionalExperience" :key="experience.title">
               <p>{{ experience.title }}</p>
               <p>{{ experience.company }} ({{ experience.startDate.year }} - {{ experience.endDate.year }})</p>
             </li>
           </ul>
-          <h3 class="heading">Formal Education</h3>
+          <h3 class="heading">{{cv.cvheadings.formaleducation}}</h3>
           <ul class="no-bullets"> <!-- Added class "no-bullets" -->
             <li v-for="education in cv.formalEducation" :key="education.degree">
               <p>{{ education.degree }}</p>
               <p>{{ education.university }} ({{ education.startDate.year }} - {{ education.endDate.year }})</p>
             </li>
           </ul>
-          <h3 class="heading">Courses and Certifications</h3>
+          <h3 class="heading">{{cv.cvheadings.coursesandcertifications}}</h3>
           <ul class="no-bullets"> <!-- Added class "no-bullets" -->
             <li v-for="course in cv.coursesAndCertifications" :key="course.course">
               <p>{{ course.course }}</p>
               <p>{{ course.provider }} ({{ course.startDate.year }} - {{ course.endDate.year }})</p>
             </li>
           </ul>
-          <h3 class="heading">Competence Overview</h3>
+          <h3 class="heading">{{cv.cvheadings.competenceoverview}}</h3>
           <ul class="competence-overview">
             <li v-for="(value, key) in cv.competenceOverview" :key="key">{{ key }}: {{ value }}</li>
           </ul>
-          <h3 class="heading">Skills</h3>
+          <h3 class="heading">{{cv.cvheadings.skills}}</h3>
           <ul class="competence-overview">
             <li v-for="skill in cv.skills" :key="skill">{{ skill }}</li>
           </ul>
-          <h3 class="heading">Personal Information</h3>
+          <h3 class="heading">{{cv.cvheadings.personalinformation}}</h3>
           <p>Driver's License: {{ cv.personalInformation.driverLicense }}</p>
           <p>Nationality: {{ cv.personalInformation.nationality.join(", ") }}</p>
           <p>Languages: {{ cv.personalInformation.languages.join(", ") }}</p>

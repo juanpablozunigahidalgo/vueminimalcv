@@ -1,5 +1,14 @@
 {
-    "name": "Ioannes Paulus Zuñiga Hidalgo",
+    "name": "Juan Pablo Zuñiga Hidalgo",
+    "cvheadings": {
+        "abstract": "Abstractum",
+        "professionalexperience": "Experientia Professionalis",
+        "formaleducation": "Educatio Formalis",
+        "coursesandcertifications": "Cursus et Certificata",
+        "competenceoverview": "Supervisio Competentiae",
+        "skills": "Peritiae",
+        "personalinformation": "Informatio Personalis"
+        },
     "website": "www.zunigajp.com",
     "github": "github.com/juanpablozunigahidalgo",
     "email": "juanpablo.zunigah@gmail.com",

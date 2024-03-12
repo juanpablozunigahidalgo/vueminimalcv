@@ -1,5 +1,14 @@
 {
     "name": "Juan Pablo Zuñiga Hidalgo",
+    "cvheadings": {
+      "abstract": "Resumen",
+      "professionalexperience": "Experiencia Profesional",
+      "formaleducation": "Educación Formal",
+      "coursesandcertifications": "Cursos y Certificaciones",
+      "competenceoverview": "Competencias Generales",
+      "skills": "Habilidades",
+      "personalinformation": "Información Personal"
+      },
     "website": "www.zunigajp.com",
     "github": "github.com/juanpablozunigahidalgo",
     "email": "juanpablo.zunigah@gmail.com",
