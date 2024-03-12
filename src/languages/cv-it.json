@@ -119,14 +119,14 @@
     }
     ],
     "personalInformation": {
-    "patenteDiGuida": "B",
-    "nazionalità": ["Svedese", "Cilena"],
-    "lingue": ["Spagnolo", "Inglese", "Svedese", "Italiano"]
+    "driverLicense": "B",
+    "nationality": ["Svedese", "Cilena"],
+    "languages": ["Spagnolo", "Inglese", "Svedese", "Italiano"]
     },
     "professionalExperience": [
     {
-    "titolo": "Fondatore in Residenza",
-    "azienda": "Antler",
+    "title": "Fondatore in Residenza",
+    "company": "Antler",
     "location": "Stoccolma",
     "startDate": {"year": 2023, "month": 8, "monthName": "agosto"},
     "endDate": {"year": 2023, "month": 11, "monthName": "novembre"},
@@ -135,8 +135,8 @@
     "strumenti": ["Figma", "Flutter", "GitHub Pages", "Google Cloud", "Google Firebase", "Vertex AI", "Canva", "React", "Node", "TypeScript", "Google Maps API", "MUI Libraries", "Antler Education Literature"]
     },
     {
-    "titolo": "Preparazione del Gruppo",
-    "azienda": "Antler",
+    "title": "Preparazione del Gruppo",
+    "company": "Antler",
     "location": "Goteborg-Remoto",
     "startDate": {"year": 2023, "month": 4, "monthName": "aprile"},
     "endDate": {"year": 2023, "month": 8, "monthName": "agosto"},
@@ -144,8 +144,8 @@
     "description": "In preparazione al programma di incubazione Antler, ho intrapreso passi cruciali per migliorare www.tourismcycling.com migrandolo verso il framework React TypeScript. Ciò ha coinvolto l'uso delle librerie MUI per un'interfaccia utente/utente ottimizzata e il rilascio del sito su GitHub Pages. Inoltre, ho integrato le capacità di accesso di Auth0 e Google Site Analytics per un'autenticazione utente avanzata e un monitoraggio delle prestazioni. Completando questi sforzi,"
     },
     {
-    "titolo": "Sviluppatore Full Stack",
-    "azienda": "Lynk&Co",
+    "title": "Sviluppatore Full Stack",
+    "company": "Lynk&Co",
     "location": "Goteborg",
     "startDate": {"year": 2022, "month": 9, "monthName": "settembre"},
     "endDate": {"year": 2023, "month": 3, "monthName": "marzo"},
@@ -153,8 +153,8 @@
     "description": "Come Sviluppatore Full Stack presso Lynk&Co, ho giocato un ruolo fondamentale nello sviluppo della nuova piattaforma di toolbox per la manutenzione per i tecnici di officina. Utilizzando il framework React TypeScript all'interno dell'ambiente Azure, ho collaborato strettamente con analisti aziendali e designer di esperienza utente per garantire una funzionalità senza soluzione di continuità. In particolare, ho implementato l'autenticazione Microsoft SSO, migliorando la sicurezza del sistema e l'accessibilità dell'utente. Inoltre, ho fornito supporto per la migrazione del sistema EC APP verso lo sviluppo Azure React TypeScript, integrando più API Cosmos Lynk&Co e implementando l'autenticazione Microsoft SSO."
     },
     {
-    "titolo": "Boot Camp Java",
-    "azienda": "CGI",
+    "title": "Boot Camp Java",
+    "company": "CGI",
     "location": "Goteborg",
     "startDate": {"year": 2022, "month": 3, "monthName": "marzo"},
     "endDate": {"year": 2022, "month": 8, "monthName": "agosto"},
@@ -162,8 +162,8 @@
     "description": "Durante il mio periodo presso CGI, ho frequentato un intensivo Boot Camp Java focalizzato sullo sviluppo full-stack. Questo programma completo includeva la creazione di microservizi utilizzando Angular, il testing e il rilascio di applicazioni Single Page Applications front-end e back-end e lo sviluppo di API e microservizi RESTful. Abbracciando pratiche di codifica e disciplina ingegneristica del software, ho acquisito competenze nel lavorare all'interno di un ambiente CI/CD e nel rilasciare applicazioni in un ambiente cloud. In particolare, ho contribuito allo sviluppo di un portale di candidatura per lavoro completamente funzionale, dimostrando la mia abilità nelle tecnologie basate su Java e nello sviluppo web."
     },
     {
-    "titolo": "Consulente di Programmazione-Analisi",
-    "azienda": "Upwork",
+    "title": "Consulente di Programmazione-Analisi",
+    "company": "Upwork",
     "location": "Goteborg-Remoto",
     "startDate": {"year": 2021, "month": 3, "monthName": "marzo"},
     "endDate": {"year": 2022, "month": 3, "monthName": "marzo"},
@@ -171,8 +171,8 @@
     "description": "Come consulente su Upwork, mi sono specializzato nella programmazione BI e nell'analisi finanziaria, fornendo soluzioni personalizzate a clienti diversificati. Le mie responsabilità includevano la formulazione di proposte di lavoro, la definizione degli ambiti dei progetti e il monitoraggio continuo del lavoro per garantire la consegna tempestiva. In particolare, ho sviluppato dashboard analitici e programmi backend, definito architetture dati e condotto analisi finanziarie. Sfruttando strumenti come Power BI, Power Automate e GitHub Pages, ho fornito costantemente soluzioni orientate al valore allineate agli obiettivi del cliente."
     },
     {
-    "titolo": "Produttore Creativo",
-    "azienda": "Tourism Cycling",
+    "title": "Produttore Creativo",
+    "company": "Tourism Cycling",
     "location": "Goteborg",
     "startDate": {"year": 2020, "month": 9, "monthName": "settembre"},
     "endDate": {"year": 2021, "month": 2, "monthName": "febbraio"},
@@ -180,8 +180,8 @@
     "description": "Ho creato un progetto open-source mirato ad assistere i ciclisti turistici di tutto il mondo. Sfruttando la mia competenza nella codifica, ho sviluppato www.tourismcycling.com, una piattaforma innovativa che genera automaticamente percorsi ciclabili stimando costi e tempo richiesto. Utilizzando tecnologie come Atom, GitHub e Amazon Web Services, ho garantito funzionalità e accessibilità senza soluzione di continuità per gli utenti. Inoltre, ho facilitato raccomandazioni di attrezzature basate sulla durata del viaggio, le condizioni meteorologiche e le opzioni di campeggio, migliorando l'esperienza complessiva dell'utente. In particolare, ho favorito un ambiente collaborativo rendendo il progetto disponibile per contributi su GitHub, estendendone ulteriormente l'impatto e la portata."
     },
     {
-    "titolo": "Responsabile Progetti Finanziari",
-    "azienda": "Volvo Trucks Technology",
+    "title": "Responsabile Progetti Finanziari",
+    "company": "Volvo Trucks Technology",
     "location": "Goteborg",
     "startDate": {"year": 2017, "month": 1, "monthName": "gennaio"},
     "endDate": {"year": 2019, "month": 12, "monthName": "dicembre"},
@@ -189,8 +189,8 @@
     "description": "Durante il mio incarico come Responsabile Progetti Finanziari presso Volvo Trucks Technology, ho svolto un ruolo fondamentale nella gestione degli aspetti finanziari dei progetti di ricerca e sviluppo. Responsabile della compilazione e analisi dei casi aziendali, ho garantito la previsione accurata dei costi del progetto che comprendevano varie commodity ingegneristiche e dipartimenti. Sfruttando strumenti di automazione come Flow, Power BI e Windows 365 all'interno del reparto finanziario, ho ottimizzato i processi e migliorato l'efficienza operativa. In particolare, il mio portfolio includeva progetti che spaziavano dalle soluzioni diagnostiche smart, alla sicurezza del software, alle innovazioni meccaniche e ai miglioramenti della manutenzione, evidenziando la mia versatilità e acume strategico."
     },
     {
-    "titolo": "Intern-Progetto Finanziario",
-    "azienda": "Volvo Trucks Technology",
+    "title": "Intern-Progetto Finanziario",
+    "company": "Volvo Trucks Technology",
     "location": "Goteborg",
     "startDate": {"year": 2016, "month": 4, "monthName": "aprile"},
     "endDate": {"year": 2016, "month": 10, "monthName": "ottobre"},
@@ -198,8 +198,8 @@
     "description": "Nel mio ruolo di Intern-Progetto Finanziario, ho fornito un supporto cruciale nella gestione finanziaria, nell'analisi dei casi aziendali e nel controllo del budget per i progetti IT presso Volvo Trucks Technology. Ho guidato il potenziamento dei programmi educativi per i nuovi Responsabili Progetti Finanziari, consolidando strumenti e conoscenze essenziali necessari per una gestione efficace del progetto. Inoltre, ho sviluppato programmi basati su macro Excel per automatizzare compiti, facilitando il monitoraggio e la segnalazione del progetto. Completando questi sforzi, ho partecipato attivamente a vari corsi dell'Università Volvo, perfezionando ulteriormente le mie competenze ed expertise nei domini finanziario e della gestione dei progetti."
     },
     {
-    "titolo": "Ricerca Globale di Mercato",
-    "azienda": "SKF AB",
+    "title": "Ricerca Globale di Mercato",
+    "company": "SKF AB",
     "location": "Goteborg",
     "startDate": {"year": 2014, "month": 9, "monthName": "settembre"},
     "endDate": {"year": 2015, "month": 1, "monthName": "gennaio"},
@@ -207,8 +207,8 @@
     "description": "Nel contesto di una tesi magistrale presso SKF AB, ho guidato un'ampia iniziativa di ricerca di mercato globale focalizzata su guarnizioni industriali in diverse industrie e continenti. Utilizzando sofisticate tecniche di analisi di mercato, ho stimato la dimensione del mercato e definito opportunità di crescita per le guarnizioni industriali SKF. Sfruttando strumenti come MS Office ed Excel, ho sintetizzato le conoscenze provenienti da oltre 50 manager vendite e mercato in tutto il mondo, consentendo decisioni informate. I miei contributi sono stati cruciali nella definizione del panorama competitivo e nel posizionamento strategico delle guarnizioni industriali SKF sul mercato globale."
     },
     {
-    "titolo": "Ingegnere Meccanico",
-    "azienda": "Anglo American",
+    "title": "Ingegnere Meccanico",
+    "company": "Anglo American",
     "location": "Santiago",
     "startDate": {"year": 2012, "month": 1, "monthName": "gennaio"},
     "endDate": {"year": 2013, "month": 7, "monthName": "luglio"},
@@ -216,31 +216,31 @@
     "description": "Come Ingegnere Meccanico presso Anglo American, ho giocato un ruolo fondamentale nella supervisione delle prestazioni di produzione di impianti di smaltimento di rifiuti industriali. Partendo dalla conceptualizzazione fino alla realizzazione, ho collaborato con team multidisciplinari per garantire la conformità normativa, la sicurezza e l'efficienza operativa. In particolare, ho identificato e implementato ottimizzazioni di processo e condotto analisi di affidabilità e manutenzione per ridurre al minimo il downtime. I miei sforzi hanno portato a un aumento del 10% della produzione complessiva e al miglioramento del 15% nell'affidabilità operativa dell'impianto."
     },
     {
-    "titolo": "Professore Assistente",
-    "azienda": "Universidad Tecnica Federico Santa Maria",
+    "title": "Professore Assistente",
+    "company": "Universidad Tecnica Federico Santa Maria",
     "sede": "Valparaiso",
     "startDate": {"anno": 2008, "mese": 6, "nomeMese": "giugno"},
     "endDate": {"anno": 2011, "mese": 6, "nomeMese": "giugno"},
-    "durata": 36,
-    "descrizione": "Come Professore Assistente, ho contribuito all'eccellenza accademica di una delle principali università ingegneristiche in Cile e America Latina. In questo ruolo, ho facilitato esperienze di apprendimento in corsi come trasferimento di calore, termodinamica e fisica moderna, favorendo un ambiente favorevole alla crescita e allo sviluppo degli studenti. Sfruttando la mia esperienza in software ingegneristici come Matlab, Mathematica e Inventor, ho progettato classi di esercizi coinvolgenti, esami ed esperienze di laboratorio. Inoltre, ho svolto un ruolo vitale nello sviluppo del curriculum e nella valutazione degli studenti, garantendo la consegna di un'istruzione di qualità allineata agli standard dell'industria."
+    "duration": 36,
+    "description": "Come Professore Assistente, ho contribuito all'eccellenza accademica di una delle principali università ingegneristiche in Cile e America Latina. In questo ruolo, ho facilitato esperienze di apprendimento in corsi come trasferimento di calore, termodinamica e fisica moderna, favorendo un ambiente favorevole alla crescita e allo sviluppo degli studenti. Sfruttando la mia esperienza in software ingegneristici come Matlab, Mathematica e Inventor, ho progettato classi di esercizi coinvolgenti, esami ed esperienze di laboratorio. Inoltre, ho svolto un ruolo vitale nello sviluppo del curriculum e nella valutazione degli studenti, garantendo la consegna di un'istruzione di qualità allineata agli standard dell'industria."
     },
     {
-    "titolo": "Supporto Ingegneristico",
-    "azienda": "Bechtel Corporation",
-    "sede": "Santiago",
+    "title": "Supporto Ingegneristico",
+    "company": "Bechtel Corporation",
+    "location": "Santiago",
     "startDate": {"anno": 2011, "mese": 1, "nomeMese": "gennaio"},
     "endDate": {"anno": 2011, "mese": 2, "nomeMese": "febbraio"},
-    "durata": 1,
-    "descrizione": "Come parte del team di supporto ingegneristico presso la Bechtel Corporation, ho contribuito all'esecuzione di successo di progetti minerari ed energetici in America del Sud. Incaricato dello sviluppo di reti idrauliche per un importante progetto minerario chiamato 'Las Bambas' in Perù, ho collaborato strettamente con team multidisciplinari per garantire il raggiungimento degli obiettivi del progetto. Sfruttando strumenti come MS Office e Bechtel hydraulics, ho fornito un prezioso supporto nella documentazione del progetto e nell'analisi tecnica. Inoltre, la mia partecipazione alle iniziative educative dell'Università Bechtel mi ha dotato di competenze essenziali in gestione dei progetti e gestione delle persone, sottolineando il mio impegno per lo sviluppo professionale e l'eccellenza."
+    "duration": 1,
+    "description": "Come parte del team di supporto ingegneristico presso la Bechtel Corporation, ho contribuito all'esecuzione di successo di progetti minerari ed energetici in America del Sud. Incaricato dello sviluppo di reti idrauliche per un importante progetto minerario chiamato 'Las Bambas' in Perù, ho collaborato strettamente con team multidisciplinari per garantire il raggiungimento degli obiettivi del progetto. Sfruttando strumenti come MS Office e Bechtel hydraulics, ho fornito un prezioso supporto nella documentazione del progetto e nell'analisi tecnica. Inoltre, la mia partecipazione alle iniziative educative dell'Università Bechtel mi ha dotato di competenze essenziali in gestione dei progetti e gestione delle persone, sottolineando il mio impegno per lo sviluppo professionale e l'eccellenza."
     },
     {
-    "titolo": "Supporto Ingegneristico",
-    "azienda": "Codelco",
-    "sede": "Los Andes",
+    "title": "Supporto Ingegneristico",
+    "company": "Codelco",
+    "location": "Los Andes",
     "startDate": {"anno": 2008, "mese": 1, "nomeMese": "gennaio"},
     "endDate": {"anno": 2008, "mese": 2, "nomeMese": "febbraio"},
-    "durata": 1,
-    "descrizione": "Durante il mio incarico come Ingegnere di Supporto presso Codelco, il principale produttore mondiale di rame, ho svolto un ruolo cruciale nel migliorare le procedure di manutenzione per grandi attrezzature industriali. Sfruttando modelli di affidabilità basati sulla regressione di Weibull e dati in tempo reale, ho migliorato l'affidabilità e le prestazioni delle attrezzature, contribuendo all'efficienza operativa. Le mie responsabilità comprendevano la documentazione del progetto, l'analisi dei dati e il supporto tecnico, sottolineando il mio impegno nel fornire risultati tangibili. Attraverso la mia competenza in strumenti come MS Office ed Excel, ho fornito preziose intuizioni e raccomandazioni per ottimizzare le pratiche di manutenzione, consolidando ulteriormente la posizione di Codelco come leader globale nell'industria mineraria."
+    "duration": 1,
+    "description": "Durante il mio incarico come Ingegnere di Supporto presso Codelco, il principale produttore mondiale di rame, ho svolto un ruolo cruciale nel migliorare le procedure di manutenzione per grandi attrezzature industriali. Sfruttando modelli di affidabilità basati sulla regressione di Weibull e dati in tempo reale, ho migliorato l'affidabilità e le prestazioni delle attrezzature, contribuendo all'efficienza operativa. Le mie responsabilità comprendevano la documentazione del progetto, l'analisi dei dati e il supporto tecnico, sottolineando il mio impegno nel fornire risultati tangibili. Attraverso la mia competenza in strumenti come MS Office ed Excel, ho fornito preziose intuizioni e raccomandazioni per ottimizzare le pratiche di manutenzione, consolidando ulteriormente la posizione di Codelco come leader globale nell'industria mineraria."
     }
 ]
 }

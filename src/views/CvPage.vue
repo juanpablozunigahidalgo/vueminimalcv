@@ -1,5 +1,6 @@
 <template>
   <div class="main-page">
+    <template v-if="cv">
     <table class="table-layout">
       <tr>
         <td colspan="2" class="links">
@@ -42,17 +43,38 @@
         </td>
       </tr>
     </table>
+  </template>
+  <template v-else>
+      <p>Loading...</p>
+    </template>
   </div>
 </template>
 
 <script>
-import cvData from "@/languages/cv-eng.json"; // Import JSON data
-
 export default {
   data() {
     return {
-      cv: cvData // Assign JSON data to 'cv' property
+      cv: null // Initialize cv as null
     };
+  },
+  async created() {
+    // Get the language from the URL
+    const language = this.getLanguageFromUrl();
+    // Import the appropriate JSON data based on the language
+    this.cv = await import(`@/languages/cv-${language}.json`);
+  },
+  methods: {
+    getLanguageFromUrl() {
+      // Extract language from URL
+      const url = window.location.href;
+      if (url.includes("/english/")) return "eng";
+      else if (url.includes("spanish")) return "esp";
+      else if (url.includes("italian")) return "it";
+      else if (url.includes("latin.r")) return "lat";
+      else if (url.includes("swedish")) return "sv";
+      // Default to English if no language found in the URL
+      else return "eng";
+    }
   }
 };
 </script>
