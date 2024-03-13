@@ -1,6 +1,5 @@
-<!-- Blog.vue -->
 <template>
     <div>
-      <h1>Blog Page</h1>
+      <h1>Other Page</h1>
     </div>
   </template>

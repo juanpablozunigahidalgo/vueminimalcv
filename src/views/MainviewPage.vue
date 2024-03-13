@@ -14,9 +14,8 @@
       <tr>
         <td class="links">
           <router-link :to="`/${selectedLanguage.toLowerCase()}/cv`" class="link">{{ langData.cv }}</router-link>
-          <router-link :to="`/${selectedLanguage.toLowerCase()}/projects`" class="link">{{ langData.projects }}</router-link>
-          <router-link :to="`/${selectedLanguage.toLowerCase()}/blog`" class="link">{{ langData.blog }}</router-link>
           <router-link :to="`/${selectedLanguage.toLowerCase()}/contact`" class="link">{{ langData.contact }}</router-link>
+          <router-link :to="`/${selectedLanguage.toLowerCase()}/others`" class="link">{{ langData.others }}</router-link>
         </td>
       </tr>
       <tr>

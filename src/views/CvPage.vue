@@ -12,6 +12,7 @@
             <li v-for="experience in cv.professionalExperience" :key="experience.title">
               <p>{{ experience.title }}</p>
               <p>{{ experience.company }} ({{ experience.startDate.year }} - {{ experience.endDate.year }})</p>
+              <p>{{ experience.description }} </p>
             </li>
           </ul>
           <h3 class="heading">{{cv.cvheadings.formaleducation}}</h3>
