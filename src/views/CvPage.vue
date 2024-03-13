@@ -13,6 +13,7 @@
               <p>{{ experience.title }}</p>
               <p>{{ experience.company }} ({{ experience.startDate.year }} - {{ experience.endDate.year }})</p>
               <p>{{ experience.description }} </p>
+              <p>Tools: {{ experience.tools.join(", ") }}</p>
             </li>
           </ul>
           <h3 class="heading">{{cv.cvheadings.formaleducation}}</h3>
@@ -146,5 +147,10 @@ export default {
   margin-bottom: 5px;
   font-size: inherit; /* Inherit font size from parent */
   font-weight: bold; /* Set font weight to bold */
+}
+.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding-left: 0; /* Adjust padding to align with headings */
+  margin: 0; /* Add this line to remove top margin */
 }
 </style>
