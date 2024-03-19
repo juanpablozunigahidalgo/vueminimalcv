@@ -1,7 +1,7 @@
 {
   "name": "vueminimalcv",
   "version": "0.1.0",
-  "homepage": "https://github.com/juanpablozunigahidalgo/vueminimalcv",
+  "homepage": "https://juanpablozunigahidalgo.github.io/vueminimalcv/",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
