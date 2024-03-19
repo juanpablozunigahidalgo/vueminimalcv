@@ -10,10 +10,10 @@
           <h3 class="heading">{{cv.cvheadings.professionalexperience}}</h3>
           <ul class="no-bullets"> <!-- Added class "no-bullets" -->
             <li v-for="experience in cv.professionalExperience" :key="experience.title">
-              <p>{{ experience.title }}</p>
+              <p style="font-weight:550; color: #36454F; padding-bottom: 1px;">{{ experience.title }}</p>
               <p>{{ experience.company }} ({{ experience.startDate.year }} - {{ experience.endDate.year }})</p>
               <p>{{ experience.description }} </p>
-              <p>Tools: {{ experience.tools.join(", ") }}</p>
+              <p style="padding-bottom: 5px;">Tools: {{ experience.tools.join(", ") }}</p>
             </li>
           </ul>
           <h3 class="heading">{{cv.cvheadings.formaleducation}}</h3>

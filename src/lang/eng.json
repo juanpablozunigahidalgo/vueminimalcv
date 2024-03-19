@@ -11,5 +11,10 @@
     "address": "Gothenburg, Sweden. Santiago, Chile.",
     "linkedin": "https://se.linkedin.com/in/jpzuniga",
     "github": "https://github.com/juanpablozunigahidalgo/"
+  },
+  "projects" : {
+    "projects": "Projects",
+    "pinterest": "Pinterest",
+    "freelance": "Getquote"
   }
 }

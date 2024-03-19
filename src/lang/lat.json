@@ -12,13 +12,9 @@
         "linkedin": "https://se.linkedin.com/in/jpzuniga",
         "github": "https://github.com/juanpablozunigahidalgo/"
       },
-      "cv-headings": {
-        "abstract": "Abstractum",
-        "professionalexperience": "Experientia Professionalis",
-        "formaleducation": "Doctrina Formalis",
-        "coursesandcertifications": "Cursus et Testimonia",
-        "competenceoverview": "Perspectiva Competentiarum",
-        "skills": "Peritia",
-        "personalinformation": "Informatio Personalis"
-    }
+      "projects" : {
+        "projects": "Projects",
+        "pinterest": "Pinterest",
+        "freelance": "Getquote"
+      }
     }

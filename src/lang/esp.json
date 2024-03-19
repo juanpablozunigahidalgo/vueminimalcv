@@ -12,14 +12,10 @@
       "linkedin": "https://se.linkedin.com/in/jpzuniga",
       "github": "https://github.com/juanpablozunigahidalgo/"
     },
-    "cv-headings": {
-      "abstract": "Resumen",
-      "professionalexperience": "Experiencia Profesional",
-      "formaleducation": "Educación Formal",
-      "coursesandcertifications": "Cursos y Certificaciones",
-      "competenceoverview": "Visión General de Competencias",
-      "skills": "Habilidades",
-      "personalinformation": "Información Personal"
-      }
+    "projects" : {
+      "projects": "Projects",
+      "pinterest": "Pinterest",
+      "freelance": "Getquote"
+    }
   }
   
