@@ -1,0 +1,123 @@
+{
+    "eng": {
+      "cv": "CV",
+      "others": "Other",
+      "blog": "Blog",
+      "contact": "Contact",
+      "about": "About the site",
+      "text-about": "I developed this website using the Vue.js framework, hosted on GitHub Pages. The language options are stored locally in JSON objects. My aim was to achieve a minimalist design while incorporating multiple language options.",
+      "contactdata": {
+        "email": "juanpablo.zunigah@gmail.com",
+        "phone": "+46729971641",
+        "address": "Gothenburg, Sweden. Santiago, Chile.",
+        "linkedin": "https://se.linkedin.com/in/jpzuniga",
+        "github": "https://github.com/juanpablozunigahidalgo/"
+      },
+      "projects": {
+        "projects": "Projects",
+        "pinterest": "Pinterest",
+        "freelance": "Getquote"
+      }
+    },
+    "esp": {
+      "cv": "Currículum",
+      "others": "Otros",
+      "blog": "Blog",
+      "contact": "Contacto",
+      "about": "Acerca del sitio",
+      "text-about": "He creado este sitio web usando el framework Vue.js. Páginas de Github. Las opciones de idioma se almacenan localmente con objetos json. Mi objetivo es un diseño minimalista con múltiples opciones de idioma.",
+      "contactdata": {
+        "email": "juanpablo.zunigah@gmail.com",
+        "phone": "+46729971641",
+        "address": "Gothenburg, Sweden. Santiago, Chile.",
+        "linkedin": "https://se.linkedin.com/in/jpzuniga",
+        "github": "https://github.com/juanpablozunigahidalgo/"
+      },
+      "projects": {
+        "projects": "Projects",
+        "pinterest": "Pinterest",
+        "freelance": "Getquote"
+      }
+    },
+    "it": {
+        "cv": "Curriculum",
+        "others": "Altri",
+        "blog": "Blog",
+        "contact": "Contatto",
+        "about":"Informazioni sul sito",
+        "text-about":"Ho creato questo sito Web utilizzando il framework Vue.js. Pagine Github. Le opzioni della lingua vengono archiviate localmente con oggetti JSON. Il mio obiettivo è un design minimalista con più opzioni linguistiche.",
+        "contactdata": {
+            "email": "juanpablo.zunigah@gmail.com",
+            "phone": "+46729971641",
+            "address": "Gothenburg, Sweden. Santiago, Chile.",
+            "linkedin": "https://se.linkedin.com/in/jpzuniga",
+            "github": "https://github.com/juanpablozunigahidalgo/"
+          },
+          "projects" : {
+            "projects": "Projects",
+            "pinterest": "Pinterest",
+            "freelance": "Getquote"
+          }
+        },
+        "lat": {
+            "cv": "Curriculum Vitae",
+            "others": "Alium",
+            "blog": "Blog",
+            "contact": "Contactus",
+            "about": "Circa locum",
+            "text-about":"Hoc website utens Vue.js compage creavi. Paginarum Github. Optiones linguae localiter conditae cum obiectis json. Propositum meum est minimalist propositum cum multiplici optione linguae.",
+            "contactdata": {
+                "email": "juanpablo.zunigah@gmail.com",
+                "phone": "+46729971641",
+                "address": "Gothenburg, Sweden. Santiago, Chile.",
+                "linkedin": "https://se.linkedin.com/in/jpzuniga",
+                "github": "https://github.com/juanpablozunigahidalgo/"
+              },
+              "projects" : {
+                "projects": "Projects",
+                "pinterest": "Pinterest",
+                "freelance": "Getquote"
+              }
+            },
+        "quechua": {
+            "cv": "Hatun wakachina",
+            "others": "Wakintaq",
+            "blog": "Rikch'ay",
+            "contact": "Kuskakuy",
+            "about":"Sitimanta",
+            "text-about":"Kay web kitita Vue.js marcota llamk'achispa ruwarqani. Github p'anqakuna. Simi akllanakuna llaqtapi waqaychasqa kanku json kaqkunawan. Metayqa huk diseño minimalista achka simi akllanakunayuq.",
+            "contactdata": {
+                "email": "juanpablo.zunigah@gmail.com",
+                "phone": "+46729971641",
+                "address": "Gothenburg, Sweden. Santiago, Chile.",
+                "linkedin": "https://se.linkedin.com/in/jpzuniga",
+                "github": "https://github.com/juanpablozunigahidalgo/"
+              },
+              "projects" : {
+                "projects": "Projects",
+                "pinterest": "Pinterest",
+                "freelance": "Getquote"
+              }
+            },
+        "sv": 
+        {
+            "cv": "CV",
+            "others": "Andra",
+            "blog": "Blogg",
+            "contact": "Kontakt",
+            "about":"Om webbplatsen",
+            "text-about":"Jag har skapat den här webbplatsen med ramen för Vue.js. Github-sidor. Språkalternativ lagras lokalt med json-objekt. Mitt mål är en minimalistisk design med flera språkalternativ.",
+            "contactdata": {
+                "email": "juanpablo.zunigah@gmail.com",
+                "phone": "+46729971641",
+                "address": "Gothenburg, Sweden. Santiago, Chile.",
+                "linkedin": "https://se.linkedin.com/in/jpzuniga",
+                "github": "https://github.com/juanpablozunigahidalgo/"
+              },
+              "projects" : {
+                "projects": "Projects",
+                "pinterest": "Pinterest",
+                "freelance": "Getquote"
+              }
+        }
+  }

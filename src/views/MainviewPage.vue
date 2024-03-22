@@ -28,6 +28,12 @@
 </template>
 
 <script>
+// import eng from "@/lang/eng.json";
+// import it from "@/lang/it.json";
+// import lat from "@/lang/lat.json";
+// import sv from "@/lang/sv.json";
+// import esp from "@/lang/esp.json";
+// Import JSON files from the public folder
 import eng from "@/lang/eng.json";
 import it from "@/lang/it.json";
 import lat from "@/lang/lat.json";

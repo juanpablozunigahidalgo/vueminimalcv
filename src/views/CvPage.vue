@@ -62,8 +62,17 @@ export default {
   async created() {
     // Get the language from the URL
     const language = this.getLanguageFromUrl();
-    // Import the appropriate JSON data based on the language
-    this.cv = await import(`@/languages/cv-${language}.json`);
+    // Fetch the appropriate JSON data based on the language
+    try {
+      const response = await fetch(`/languages/cv-${language}.json`); // Assuming the files are in public/lang/ folder
+      if (!response.ok) {
+        throw new Error('Failed to fetch CV data');
+      }
+      this.cv = await response.json();
+    } catch (error) {
+      console.error(error);
+      // Handle error loading CV data
+    }
   },
   methods: {
     getLanguageFromUrl() {
