@@ -11,7 +11,7 @@ import About from './views/AboutSite.vue';
 // Define routes
 const routes = [
   {
-    path: '/',
+    path: './',
     component: Mainview,
     children: [
       { path: 'cv', component: CV },

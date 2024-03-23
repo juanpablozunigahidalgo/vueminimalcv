@@ -64,7 +64,7 @@ export default {
     const language = this.getLanguageFromUrl();
     // Fetch the appropriate JSON data based on the language
     try {
-      const response = await fetch(`/languages/cv-${language}.json`); // Assuming the files are in public/lang/ folder
+      const response = await fetch(`../languages/cv-${language}.json`); // Assuming the files are in public/lang/ folder
       if (!response.ok) {
         throw new Error('Failed to fetch CV data');
       }
