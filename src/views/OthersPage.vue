@@ -2,7 +2,7 @@
   <div class="main-page">
     <div class="links">
       <p class="heading-1" v-if="cv">{{ cv.projects }}</p>
-      <p class="heading-1"><a href="https://www.pinterest.se/juanpabloZunigaH/" class="no-link-style">Pinterest</a></p>
+      <p class="heading-1"><a href="https://www.pinterest.se/juanpablozunigahidalgo/" class="no-link-style">Pinterest</a></p>
       <p class="heading-1"><a href="https://www.upwork.com/o/profiles/users/~014dc3930a8604d292/" class="no-link-style">Upwork</a></p>
       <p class="heading-1"><a href="https://se.linkedin.com/in/jpzuniga/en" class="no-link-style">Linkedin</a></p>
     </div>
