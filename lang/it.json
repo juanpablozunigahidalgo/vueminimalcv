@@ -1,0 +1,20 @@
+{
+    "cv": "Curriculum",
+    "others": "Altri",
+    "blog": "Blog",
+    "contact": "Contatto",
+    "about":"Informazioni sul sito",
+    "text-about":"Ho creato questo sito Web utilizzando il framework Vue.js. Pagine Github. Le opzioni della lingua vengono archiviate localmente con oggetti JSON. Il mio obiettivo è un design minimalista con più opzioni linguistiche.",
+    "contactdata": {
+        "email": "juanpablo.zunigah@gmail.com",
+        "phone": "+46729971641",
+        "address": "Gothenburg, Sweden. Santiago, Chile.",
+        "linkedin": "https://se.linkedin.com/in/jpzuniga",
+        "github": "https://github.com/juanpablozunigahidalgo/"
+      },
+      "projects" : {
+        "projects": "Projects",
+        "pinterest": "Pinterest",
+        "freelance": "Getquote"
+      }
+    }
