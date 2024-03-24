@@ -142,7 +142,7 @@
     "endDate": {"year": 2023, "month": 11, "monthName": "novembre"},
     "duration": 3,
     "description": "Come partecipante al programma di innovazione per imprenditori Antler, ho avuto successo in un ambiente ad alta pressione focalizzato sullo sviluppo di venture aziendali innovative. Collaborando con imprenditori provenienti da diverse esperienze, eccelso nella formazione di team e nello sviluppo di idee all'avanguardia, incluse soluzioni digitali come app e siti web. Il mio ruolo si estendeva alla convalida dell'idoneità del mercato per prodotti/servizi attraverso proposte di affari convincenti presentate agli investitori di venture capital. In particolare, ho guidato la generazione di idee di sprint per settori che spaziavano dall'assicurazione alla costruzione e alla sanità.",
-    "strumenti": ["Figma", "Flutter", "GitHub Pages", "Google Cloud", "Google Firebase", "Vertex AI", "Canva", "React", "Node", "TypeScript", "Google Maps API", "MUI Libraries", "Antler Education Literature"]
+    "tools": ["Figma", "Flutter", "GitHub Pages", "Google Cloud", "Google Firebase", "Vertex AI", "Canva", "React", "Node", "TypeScript", "Google Maps API", "MUI Libraries", "Antler Education Literature"]
     },
     {
     "title": "Preparazione del Cohort",
