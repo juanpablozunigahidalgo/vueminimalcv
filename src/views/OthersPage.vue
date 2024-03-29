@@ -5,6 +5,8 @@
       <p class="heading-1"><a href="https://www.pinterest.se/juanpablozunigahidalgo/" class="no-link-style">Pinterest</a></p>
       <p class="heading-1"><a href="https://www.upwork.com/o/profiles/users/~014dc3930a8604d292/" class="no-link-style">Upwork</a></p>
       <p class="heading-1"><a href="https://se.linkedin.com/in/jpzuniga/en" class="no-link-style">Linkedin</a></p>
+      <p class="heading-1"><a href="https://tourismcycling.com/" class="no-link-style">Tourism Cycling</a></p>
+      <p class="heading-1"><a href="https://www.manifestare.art" class="no-link-style">Pensamientos</a></p>
     </div>
   </div>
 </template>
