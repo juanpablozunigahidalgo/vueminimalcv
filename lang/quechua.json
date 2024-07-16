@@ -1,0 +1,20 @@
+{
+    "cv": "Hatun wakachina",
+    "others": "Wakintaq",
+    "blog": "Rikch'ay",
+    "contact": "Kuskakuy",
+    "about":"Sitimanta",
+    "text-about":"Kay web kitita Vue.js marcota llamk'achispa ruwarqani. Github p'anqakuna. Simi akllanakuna llaqtapi waqaychasqa kanku json kaqkunawan. Metayqa huk diseño minimalista achka simi akllanakunayuq.",
+    "contactdata": {
+        "email": "juanpablo.zunigah@gmail.com",
+        "phone": "+46729971641",
+        "address": "Gothenburg, Sweden. Santiago, Chile.",
+        "linkedin": "https://se.linkedin.com/in/jpzuniga",
+        "github": "https://github.com/juanpablozunigahidalgo/"
+      },
+      "projects" : {
+        "projects": "Projects",
+        "pinterest": "Pinterest",
+        "freelance": "Getquote"
+      }
+    }
