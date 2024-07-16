@@ -1,0 +1,19 @@
+how to :
+
+swith branch to master
+
+git branch -D dist
+
+do all changes required in master now
+
+git checkout -b dist
+
+https://dev.to/curiosity/part-4-deploy-project-to-github-pages-for-live-version-1lbm
+
+npm run build
+
+git add 
+
+git commit 
+
+git subtree push --prefix dist origin gh-pages

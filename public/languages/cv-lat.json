@@ -134,6 +134,16 @@
     },
     "professionalExperience": [
     {
+    "title": "Consultor IT. Programmatio et Design.",
+    "company": "Upwork",
+    "location": "Gothenburg-Remote",
+    "startDate": {"year": 2024, "month": 3, "monthName": "Martius"},
+    "endDate": {"year": 2024, "month": 12, "monthName": "December"},
+    "duration": 9,
+    "description": "Auxilium progressionis pro duobus incipientibus societatibus in primis gradibus praestiti. In sanitate et cibo sectoribus. Totum vitae producti curriculum complectens. Responsa includebant designandi prototypa in Figma, exsequendi solutiones front-end et back-end utendo React cum TypeScript. Firebase integravi pro administratione datae in tempore reali et authentificatione usoris. Insuper, exsecutio React Redux et REST APIs. Dum utens externis fontibus datae (Open APIs). Etiam, progressio applicationum interretialium fundatarum in OpenAI. Inter quas instrumentum diagnosti AI-fundatum defectuum machinarum pro onerariis. Etiam progressio solutionum fundatarum in tabulis utens datae geolocationis.",
+    "tools": ["Figma", "GitHub Pages", "Google Cloud servitia", "Google Firebase", "Open AI", "Amadeus API", "React", "Node", "TypeScript", "Google Maps API", "MUI Bibliothecae"]
+    },
+    {
     "title": "Fundator in Re",
     "company": "Antler",
     "location": "Holmiensis",

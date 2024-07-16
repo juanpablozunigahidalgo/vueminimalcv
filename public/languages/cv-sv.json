@@ -134,6 +134,16 @@
     },
     "professionalExperience": [
     {
+    "title": "IT-konsult. Programmering och Design.",
+    "company": "Upwork",
+    "location": "Göteborg-Remote",
+    "startDate": {"year": 2024, "month": 3, "monthName": "Mars"},
+    "endDate": {"year": 2024, "month": 12, "monthName": "December"},
+    "duration": 9,
+    "description": "Tillhandahöll utvecklingsstöd för två nystartade företag i ett tidigt skede. Inom hälso- och livsmedelssektorn. Omfattar hela produktlivscykeln. Ansvar inkluderade design av Figma-prototyper, implementering av front-end och back-end lösningar med React och TypeScript. Integrerade Firebase för realtidsdatabas och användarautentisering. Dessutom implementering av React Redux och REST API:er. Med användning av externa datakällor (öppna API:er). Även utveckling av webbaserade applikationer med OpenAI. Inklusive ett AI-baserat verktyg för maskinfel diagnostik för lastbilar. Även utveckling av kartbaserade lösningar med hjälp av geolokaliseringsdata.",
+    "tools": ["Figma", "GitHub Pages", "Google Cloud-tjänster", "Google Firebase", "Open AI", "Amadeus API", "React", "Node", "TypeScript", "Google Maps API", "MUI-bibliotek"]
+    },
+    {
     "title": "Grundare i Residence",
     "company": "Antler",
     "location": "Stockholm",

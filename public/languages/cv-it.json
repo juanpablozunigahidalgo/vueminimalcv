@@ -135,6 +135,16 @@
     },
     "professionalExperience": [
     {
+      "title": "Consulente IT. Programmazione e Design.",
+      "company": "Upwork",
+      "location": "Goteborg-Remoto",
+      "startDate": {"year": 2024, "month": 3, "monthName": "Marzo"},
+      "endDate": {"year": 2024, "month": 12, "monthName": "Dicembre"},
+      "duration": 9,
+      "description": "Ho fornito supporto allo sviluppo per due startup in fase iniziale. Nei settori sanitario e alimentare. Coprendo l'intero ciclo di vita del prodotto. Le responsabilità includevano la progettazione di prototipi in Figma, l'implementazione di soluzioni front-end e back-end utilizzando React con TypeScript. Ho integrato Firebase per la gestione dei dati in tempo reale e l'autenticazione degli utenti. Inoltre, l'implementazione di React Redux e API REST. Utilizzando fonti di dati esterne (API aperte). Anche, lo sviluppo di applicazioni web basate su OpenAI. Compreso uno strumento di diagnostica dei guasti delle macchine basato su IA per camion. Inoltre, lo sviluppo di soluzioni basate su mappe utilizzando dati di geolocalizzazione.",
+      "tools": ["Figma", "GitHub Pages", "Servizi di Google Cloud", "Google Firebase", "Open AI", "Amadeus API", "React", "Node", "TypeScript", "Google Maps API", "Librerie MUI"]
+    }, 
+    {
     "title": "Fondatore in Residenza",
     "company": "Antler",
     "location": "Stoccolma",
