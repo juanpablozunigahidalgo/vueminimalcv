@@ -134,11 +134,21 @@
     },
     "professionalExperience": [
     {
-    "title": "Consultor IT. Programmatio et Design.",
+        "title": "Artificial Intelligence Services Specialist.",
+        "company": "Oracle EU",
+        "location": "Gothenburg-Remote",
+        "startDate": {"year": 2024, "month": 12, "monthName": "Decembres"},
+        "endDate": {"year": 2026, "month": 12, "monthName": "Decembres"},
+        "duration": 25,
+        "description": "Iob positio tendit in subsidiis Institutis applicationes et processus modernizandi per Oraculum technologias intellegentias artificiales provectas. Negotium requisita componendo cum facultatibus technologicis. Solutiones promovere secundum intelligentiam artificialem. Meliorem decisionem faciendi et efficientiam perficiendi. Collaboratio cum clientibus et iugis multifunctionalis.Clavis officia includunt provocationes analyses, opera architecturae AI designans, et oraculum infrastructurae Cloud (OCI) AI exempla exsequens. Haec exempla spatia Oraculum Digital Assistant, OCI AI Officia (Intellectus, Lingua, Visio, Loquela), et apparatus eruditionis exempla. Ductio technica praebetur ad exemplar institutionis, instruere, et integratio ut inconsutilem interoperabilitatem cum systematibus exsistentibus curet.",
+        "tools": ["Oracle Cloud Infrastructure (OCI)", "Oracle AI Services", "Oracle Digital Assistant", "OCI Data Science", "Python", "TensorFlow", "PyTorch", "Jupyter", "REST APIs", "Postman", "Visual Studio Code"]
+    },
+    {
+    "title": "Consultor IT Programmatio et Design",
     "company": "Upwork",
     "location": "Gothenburg-Remote",
     "startDate": {"year": 2024, "month": 3, "monthName": "Martius"},
-    "endDate": {"year": 2024, "month": 12, "monthName": "December"},
+    "endDate": {"year": 2024, "month": 12, "monthName": "Novembris"},
     "duration": 9,
     "description": "Auxilium progressionis pro duobus incipientibus societatibus in primis gradibus praestiti. In sanitate et cibo sectoribus. Totum vitae producti curriculum complectens. Responsa includebant designandi prototypa in Figma, exsequendi solutiones front-end et back-end utendo React cum TypeScript. Firebase integravi pro administratione datae in tempore reali et authentificatione usoris. Insuper, exsecutio React Redux et REST APIs. Dum utens externis fontibus datae (Open APIs). Etiam, progressio applicationum interretialium fundatarum in OpenAI. Inter quas instrumentum diagnosti AI-fundatum defectuum machinarum pro onerariis. Etiam progressio solutionum fundatarum in tabulis utens datae geolocationis.",
     "tools": ["Figma", "GitHub Pages", "Google Cloud servitia", "Google Firebase", "Open AI", "Amadeus API", "React", "Node", "TypeScript", "Google Maps API", "MUI Bibliothecae"]

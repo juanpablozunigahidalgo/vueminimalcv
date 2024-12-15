@@ -134,11 +134,21 @@
     },
     "professionalExperience": [
       {
-        "title": "Consultor de IT. Programación y Diseño.",
+        "title": "Especialista de Servicios de Inteligencia Artificial.",
+        "company": "Oracle EU",
+        "location": "Gotemburgo-Remoto",
+        "startDate": {"year": 2024, "month": 12, "monthName": "Diciembre"},
+        "endDate": {"year": 2026, "month": 12, "monthName": "Diciembre"},
+        "duration": 25,
+        "description": "Rol centrado en ayudar a las organizaciones a modernizar las aplicaciones y los procesos a través de las tecnologías de inteligencia artificial avanzadas de Oracle. Combinando requisitos comerciales con las capacidades tecnológicas. Impulzar soluciones a base de inteligencia artificial. Mejorar la toma de decisiones y la eficiencia operativa. Colaboracion con clientes y equipos multifuncionales. Las responsabilidades clave incluyen el análisis de los desafíos comerciales, el diseño de arquitecturas de servicios de inteligencia artificial y la implementación de modelos de inteligencia artificial de Oracle Cloud Infrastructure (OCI). Estos modelos abarcan Oracle Digital Assistant, OCI AI Services (Document Understanding, Language, Vision y Speech) y modelos de aprendizaje automático. Se proporciona orientación técnica para el entrenamiento, la implementación y la integración de modelos para garantizar una interoperabilidad perfecta con los sistemas existentes.",
+        "tools": ["Oracle Cloud Infrastructure (OCI)", "Oracle AI Services", "Oracle Digital Assistant", "OCI Data Science", "Python", "TensorFlow", "PyTorch", "Jupyter", "REST APIs", "Postman", "Visual Studio Code"]
+      },
+      {
+        "title": "Consultor de IT Programación y Diseño",
         "company": "Upwork",
         "location": "Gotemburgo-Remoto",
         "startDate": {"year": 2024, "month": 3, "monthName": "Marzo"},
-        "endDate": {"year": 2024, "month": 12, "monthName": "Diciembre"},
+        "endDate": {"year": 2024, "month": 12, "monthName": "Noviembre"},
         "duration": 9,
         "description": "Proporcioné soporte de desarrollo para dos startups en etapa inicial. En el sector de la salud y alimentación. Abarcando todo el ciclo de vida del producto. Las responsabilidades incluyeron el diseño de prototipos en Figma, la implementación de soluciones de front-end y back-end utilizando React con TypeScript. Integré Firebase para la gestión de datos en tiempo real y la autenticación de usuarios. Además, la implementación de React Redux y APIs REST. Mientras usaba fuentes de datos externas (APIs abiertas). También, el desarrollo de aplicaciones web basadas en OpenAI. Incluyendo una herramienta de diagnóstico de fallos de máquinas basada en IA para camiones. Además, el desarrollo de soluciones basadas en mapas utilizando datos de geolocalización.",
         "tools": ["Figma", "GitHub Pages", "Servicios de Google Cloud", "Google Firebase", "Open AI", "Amadeus API", "React", "Node", "TypeScript", "Google Maps API", "Bibliotecas MUI"]

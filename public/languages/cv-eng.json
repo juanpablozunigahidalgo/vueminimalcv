@@ -134,11 +134,21 @@
     },
     "professionalExperience": [
       {
+        "title": "Generative AI Services Specialist",
+        "company": "Oracle EU",
+        "location": "Gothenburg-Remote",
+        "startDate": {"year": 2024, "month": 12, "monthName": "December"},
+        "endDate": {"year": 2026, "month": 12, "monthName": "December"},
+        "duration": 25,
+        "description": "As a Generative AI Services Specialist at Oracle, this role focuses on helping organizations modernize applications and processes through Oracle's advanced AI technologies. The work bridges business requirements with technological capabilities, delivering AI-driven solutions that improve decision-making and operational efficiency. By collaborating with customers and cross-functional teams, solutions are implemented successfully across various industries, aligning with broader business goals. Key responsibilities include analyzing business challenges, designing AI service architectures, and deploying Oracle Cloud Infrastructure (OCI) AI models. These models encompass Oracle Digital Assistant, OCI AI Services (Document Understanding, Language, Vision, and Speech), and Machine Learning models. Technical guidance is provided for model training, deployment, and integration to ensure seamless interoperability with existing systems.",
+        "tools": ["Oracle Cloud Infrastructure (OCI)", "Oracle AI Services", "Oracle Digital Assistant", "OCI Data Science", "Python", "TensorFlow", "PyTorch", "Jupyter", "REST APIs", "Postman", "Visual Studio Code"]
+      },
+      {
         "title": "IT consultant Programming and Design",
         "company": "Upwork",
         "location": "Gothenburg-Remote",
         "startDate": {"year": 2024, "month": 3, "monthName": "August"},
-        "endDate": {"year": 2024, "month": 12, "monthName": "December"},
+        "endDate": {"year": 2024, "month": 12, "monthName": "November"},
         "duration": 9,
         "description": "Provided development support for two early-stage startups. In the healthcare and food sector. Encompassing the entire product lifecycle. Responsibilities included designing Figma prototypes, implementing front-end and back-end solutions using React with TypeScript. Integrated Firebase for real-time data management and user authentication. Additionally, the implementation of React Redux and REST APIs. While using external data sources (Open APIs). Also, the development of OpenAI web based applications. Including. AI-based machine failure diagnostic tool for trucks. Also the development of map-based solutions while using data into geolocation.",
         "tools": ["Figma", "GitHub Pages", "Google Cloud services", "Google Firebase", "Open AI", "Amadeus API", "React", "Node", "TypeScript", "Google Maps API", "MUI Libraries"]
