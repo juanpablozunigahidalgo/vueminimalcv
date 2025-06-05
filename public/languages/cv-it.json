@@ -17,35 +17,50 @@
     "phone": "+46729971641",
     "summary": "Ho conseguito una laurea magistrale in Ingegneria e una laurea magistrale in Economia e Gestione dell'Innovazione presso l'Università di Chalmers, con una passione per lo sviluppo continuo nell'analisi, nella digitalizzazione e nella programmazione. Con una solida base nell'organizzazione del lavoro e nella collaborazione efficace in team, eccello nel fornire comunicazioni chiare e concise. Il mio obiettivo professionale è contribuire come analista aziendale, programmatore, ingegnere per il miglioramento dei processi o designer, sfruttando la mia esperienza nell'intersezione tra ingegneria e business, in particolare nel campo dello sviluppo di soluzioni digitali e smart.",
     "competenceOverview": {
-    "Programming": "2 anni",
-    "Analytics": "2 anni",
-    "Business": "5 anni",
-    "Engineering": "3 anni",
-    "Market Analyst": "1 anno"
+      "Programming": "5 anni",
+      "Analytics": "4 anni",
+      "Business": "6 anni",
+      "Engineering": "3 anni",
+      "Market Analyst": "1.5 anni"
     },
     "skills": [
-    "Java",
-    "Javascript",
-    "Typescript",
-    "HTML",
-    "CSS",
-    "SQL",
-    "React",
-    "Angular",
-    "Python",
-    "Visual Studio",
-    "Git",
-    "Github",
-    "SpringIO",
-    "MySQL",
-    "MongoDB",
-    "SAS",
-    "Inventor",
-    "MS Office",
-    "SAP",
-    "Power BI (DAX)",
-    "Power Automate",
-    "Power APP(s)"
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "SQL",
+      "HTML5",
+      "CSS",
+      "React",
+      "Angular",
+      "Node.js",
+      "Spring Boot",
+      "MongoDB",
+      "MySQL",
+      "Firebase",
+      "Oracle APEX",
+      "Oracle Cloud Infrastructure (OCI)",
+      "Oracle Autonomous Database",
+      "Azure",
+      "Google Cloud Platform",
+      "Amazon Web Services (AWS)",
+      "Google AI Studio",
+      "OpenAI API",
+      "Vertex AI",
+      "Langchain",
+      "Trae",
+      "Open WebUI",
+      "Generative AI (OCI, Gemini, OpenAI)",
+      "Power BI (DAX)",
+      "Power Automate",
+      "Postman",
+      "REST APIs",
+      "Git",
+      "GitHub",
+      "Visual Studio Code",
+      "MUI Libraries",
+      "Figma",
+      "Auth0",
+      "SAP"
     ],
     "formalEducation": [
     {
@@ -126,6 +141,48 @@
     "startDate": {"year": 2023, "month": 1, "monthName": "gennaio"},
     "endDate": {"year": 2023, "month": 12, "monthName": "dicembre"},
     "duration": 12
+    },
+    {
+      "course": "Fondamenti di Intelligenza Artificiale Certificati su Oracle Cloud Infrastructure 2024",
+      "provider": "Oracle",
+      "startDate": {"year": 2024, "month": 12, "monthName": "Dicembre"},
+      "endDate": {"year": 2024, "month": 12, "monthName": "Dicembre"},
+      "duration": 1
+    },
+    {
+      "course": "Assistente Digitale Certificato su Oracle Cloud Infrastructure 2024",
+      "provider": "Oracle",
+      "startDate": {"year": 2025, "month": 1, "monthName": "Gennaio"},
+      "endDate": {"year": 2025, "month": 1, "monthName": "Gennaio"},
+      "duration": 1
+    },
+    {
+      "course": "Intelligenza Artificiale Generativa Certificata su Oracle Cloud Infrastructure 2024",
+      "provider": "Oracle",
+      "startDate": {"year": 2025, "month": 1, "monthName": "Gennaio"},
+      "endDate": {"year": 2025, "month": 1, "monthName": "Gennaio"},
+      "duration": 1
+    },
+    {
+      "course": "Sviluppatore Cloud Certificato Oracle APEX – Livello Professionale",
+      "provider": "Oracle",
+      "startDate": {"year": 2025, "month": 5, "monthName": "Maggio"},
+      "endDate": {"year": 2025, "month": 5, "monthName": "Maggio"},
+      "duration": 1
+    },
+    {
+      "course": "Professionista Certificato Oracle Autonomous Database Cloud 2025",
+      "provider": "Oracle",
+      "startDate": {"year": 2025, "month": 5, "monthName": "Maggio"},
+      "endDate": {"year": 2025, "month": 5, "monthName": "Maggio"},
+      "duration": 1
+    },
+    {
+      "course": "Associato Architetto Certificato su Oracle Cloud Infrastructure 2025",
+      "provider": "Oracle",
+      "startDate": {"year": 2025, "month": 5, "monthName": "Maggio"},
+      "endDate": {"year": 2025, "month": 5, "monthName": "Maggio"},
+      "duration": 1
     }
     ],
     "personalInformation": {
@@ -142,7 +199,7 @@
         "endDate": {"year": 2026, "month": 12, "monthName": "Dicembre"},
         "duration": 25,
         "description": "Posizione lavorativa focalizzata sull'aiutare le organizzazioni a modernizzare applicazioni e processi attraverso le tecnologie avanzate di intelligenza artificiale di Oracle. Coniugare le esigenze aziendali con le capacità tecnologiche. Promuovere soluzioni basate sull’intelligenza artificiale. Migliorare il processo decisionale e l’efficienza operativa. Collaborazione con clienti e team multifunzionali.Le responsabilità principali includono l'analisi delle sfide aziendali, la progettazione di architetture di servizi AI e l'implementazione di modelli AI Oracle Cloud Infrastructure (OCI). Questi modelli comprendono Oracle Digital Assistant, OCI AI Services (comprensione dei documenti, linguaggio, visione e parlato) e modelli di machine learning. Viene fornita una guida tecnica per la formazione, l'implementazione e l'integrazione dei modelli per garantire un'interoperabilità senza soluzione di continuità con i sistemi esistenti.",
-        "tools": ["Oracle Cloud Infrastructure (OCI)", "Oracle AI Services", "Oracle Digital Assistant", "OCI Data Science", "Python", "TensorFlow", "PyTorch", "Jupyter", "REST APIs", "Postman", "Visual Studio Code"]
+        "tools": [ "Oracle Cloud Infrastructure (OCI)", "Oracle AI Services", "Oracle Digital Assistant", "OCI Data Science", "Oracle Autonomous Database", "Oracle APEX", "Python", "Conda", "TensorFlow", "PyTorch", "Jupyter", "Trae", "REST APIs", "Postman", "Open WebUI", "Visual Studio Code" ]
     },
     {
       "title": "Consulente IT Programmazione e Design",

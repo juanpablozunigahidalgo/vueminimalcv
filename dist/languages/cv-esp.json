@@ -16,35 +16,50 @@
     "phone": "+46729971641",
     "summary": "Poseo un Máster en Ingeniería y un Máster en Economía de la Gestión de la Innovación de la Universidad Chalmers, con pasión por el desarrollo continuo en análisis, digitalización y programación. Con una sólida base en la organización del trabajo y la colaboración efectiva en equipos, destaco en la entrega de comunicación clara y concisa. Mi objetivo profesional es contribuir como analista de negocios, programador, ingeniero de mejora de procesos o diseñador, aprovechando mi experiencia en la intersección de la ingeniería y los negocios, particularmente en el ámbito del desarrollo de soluciones digitales e inteligentes.",
     "competenceOverview": {
-      "Programming": "2 años",
-      "Analytics": "2 años",
-      "Business": "5 años",
+      "Programming": "5 años",
+      "Analytics": "4 años",
+      "Business": "6 años",
       "Engineering": "3 años",
-      "Market Analyst": "1 año"
+      "Market Analyst": "1,5 años"
     },
     "skills": [
-      "Java",
-      "Javascript",
-      "Typescript",
-      "HTML",
-      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Python",
       "SQL",
+      "HTML5",
+      "CSS",
       "React",
       "Angular",
-      "Python",
-      "Visual Studio",
-      "Git",
-      "Github",
-      "SpringIO",
-      "MySQL",
+      "Node.js",
+      "Spring Boot",
       "MongoDB",
-      "SAS",
-      "Inventor",
-      "MS Office",
-      "SAP",
+      "MySQL",
+      "Firebase",
+      "Oracle APEX",
+      "Oracle Cloud Infrastructure (OCI)",
+      "Oracle Autonomous Database",
+      "Azure",
+      "Google Cloud Platform",
+      "Amazon Web Services (AWS)",
+      "Google AI Studio",
+      "OpenAI API",
+      "Vertex AI",
+      "Langchain",
+      "Trae",
+      "Open WebUI",
+      "Generative AI (OCI, Gemini, OpenAI)",
       "Power BI (DAX)",
       "Power Automate",
-      "Power APP(s)"
+      "Postman",
+      "REST APIs",
+      "Git",
+      "GitHub",
+      "Visual Studio Code",
+      "MUI Libraries",
+      "Figma",
+      "Auth0",
+      "SAP"
     ],
     "formalEducation": [
       {
@@ -125,6 +140,48 @@
         "startDate": {"year": 2023, "month": 1, "monthName": "Enero"},
         "endDate": {"year": 2023, "month": 12, "monthName": "Diciembre"},
         "duration": 12
+      },
+      {
+        "course": "Fundamentos de Inteligencia Artificial Certificados en Oracle Cloud Infrastructure 2024",
+        "provider": "Oracle",
+        "startDate": {"year": 2024, "month": 12, "monthName": "Diciembre"},
+        "endDate": {"year": 2024, "month": 12, "monthName": "Diciembre"},
+        "duration": 1
+      },
+      {
+        "course": "Asistente Digital Certificado en Oracle Cloud Infrastructure 2024",
+        "provider": "Oracle",
+        "startDate": {"year": 2025, "month": 1, "monthName": "Enero"},
+        "endDate": {"year": 2025, "month": 1, "monthName": "Enero"},
+        "duration": 1
+      },
+      {
+        "course": "Inteligencia Artificial Generativa Certificada en Oracle Cloud Infrastructure 2024",
+        "provider": "Oracle",
+        "startDate": {"year": 2025, "month": 1, "monthName": "Enero"},
+        "endDate": {"year": 2025, "month": 1, "monthName": "Enero"},
+        "duration": 1
+      },
+      {
+        "course": "Profesional Certificado en Desarrollo en la Nube con Oracle APEX",
+        "provider": "Oracle",
+        "startDate": {"year": 2025, "month": 5, "monthName": "Mayo"},
+        "endDate": {"year": 2025, "month": 5, "monthName": "Mayo"},
+        "duration": 1
+      },
+      {
+        "course": "Profesional Certificado en Oracle Autonomous Database Cloud 2025",
+        "provider": "Oracle",
+        "startDate": {"year": 2025, "month": 5, "monthName": "Mayo"},
+        "endDate": {"year": 2025, "month": 5, "monthName": "Mayo"},
+        "duration": 1
+      },
+      {
+        "course": "Asociado Arquitecto Certificado en Oracle Cloud Infrastructure 2025",
+        "provider": "Oracle",
+        "startDate": {"year": 2025, "month": 5, "monthName": "Mayo"},
+        "endDate": {"year": 2025, "month": 5, "monthName": "Mayo"},
+        "duration": 1
       }
     ],
     "personalInformation": {
@@ -141,7 +198,7 @@
         "endDate": {"year": 2026, "month": 12, "monthName": "Diciembre"},
         "duration": 25,
         "description": "Rol centrado en ayudar a las organizaciones a modernizar las aplicaciones y los procesos a través de las tecnologías de inteligencia artificial avanzadas de Oracle. Combinando requisitos comerciales con las capacidades tecnológicas. Impulzar soluciones a base de inteligencia artificial. Mejorar la toma de decisiones y la eficiencia operativa. Colaboracion con clientes y equipos multifuncionales. Las responsabilidades clave incluyen el análisis de los desafíos comerciales, el diseño de arquitecturas de servicios de inteligencia artificial y la implementación de modelos de inteligencia artificial de Oracle Cloud Infrastructure (OCI). Estos modelos abarcan Oracle Digital Assistant, OCI AI Services (Document Understanding, Language, Vision y Speech) y modelos de aprendizaje automático. Se proporciona orientación técnica para el entrenamiento, la implementación y la integración de modelos para garantizar una interoperabilidad perfecta con los sistemas existentes.",
-        "tools": ["Oracle Cloud Infrastructure (OCI)", "Oracle AI Services", "Oracle Digital Assistant", "OCI Data Science", "Python", "TensorFlow", "PyTorch", "Jupyter", "REST APIs", "Postman", "Visual Studio Code"]
+        "tools": [ "Oracle Cloud Infrastructure (OCI)", "Oracle AI Services", "Oracle Digital Assistant", "OCI Data Science", "Oracle Autonomous Database", "Oracle APEX", "Python", "Conda", "TensorFlow", "PyTorch", "Jupyter", "Trae", "REST APIs", "Postman", "Open WebUI", "Visual Studio Code" ]
       },
       {
         "title": "Consultor de IT Programación y Diseño",
