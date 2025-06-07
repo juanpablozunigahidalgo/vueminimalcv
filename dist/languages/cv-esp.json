@@ -195,7 +195,7 @@
         "company": "Oracle EU",
         "location": "Gotemburgo-Remoto",
         "startDate": {"year": 2024, "month": 12, "monthName": "Diciembre"},
-        "endDate": {"year": 2026, "month": 12, "monthName": "Diciembre"},
+        "endDate": {"year": 2025, "month": 6, "monthName": "Junio"},
         "duration": 25,
         "description": "Rol centrado en ayudar a las organizaciones a modernizar las aplicaciones y los procesos a través de las tecnologías de inteligencia artificial avanzadas de Oracle. Combinando requisitos comerciales con las capacidades tecnológicas. Impulzar soluciones a base de inteligencia artificial. Mejorar la toma de decisiones y la eficiencia operativa. Colaboracion con clientes y equipos multifuncionales. Las responsabilidades clave incluyen el análisis de los desafíos comerciales, el diseño de arquitecturas de servicios de inteligencia artificial y la implementación de modelos de inteligencia artificial de Oracle Cloud Infrastructure (OCI). Estos modelos abarcan Oracle Digital Assistant, OCI AI Services (Document Understanding, Language, Vision y Speech) y modelos de aprendizaje automático. Se proporciona orientación técnica para el entrenamiento, la implementación y la integración de modelos para garantizar una interoperabilidad perfecta con los sistemas existentes.",
         "tools": [ "Oracle Cloud Infrastructure (OCI)", "Oracle AI Services", "Oracle Digital Assistant", "OCI Data Science", "Oracle Autonomous Database", "Oracle APEX", "Python", "Conda", "TensorFlow", "PyTorch", "Jupyter", "Trae", "REST APIs", "Postman", "Open WebUI", "Visual Studio Code" ]

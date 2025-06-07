@@ -195,7 +195,7 @@
         "company": "Oracle EU",
         "location": "Gothenburg-Remote",
         "startDate": {"year": 2024, "month": 12, "monthName": "Decembres"},
-        "endDate": {"year": 2026, "month": 12, "monthName": "Decembres"},
+        "endDate": {"year": 2025, "month": 6, "monthName": "Iunius"},
         "duration": 25,
         "description": "Iob positio tendit in subsidiis Institutis applicationes et processus modernizandi per Oraculum technologias intellegentias artificiales provectas. Negotium requisita componendo cum facultatibus technologicis. Solutiones promovere secundum intelligentiam artificialem. Meliorem decisionem faciendi et efficientiam perficiendi. Collaboratio cum clientibus et iugis multifunctionalis.Clavis officia includunt provocationes analyses, opera architecturae AI designans, et oraculum infrastructurae Cloud (OCI) AI exempla exsequens. Haec exempla spatia Oraculum Digital Assistant, OCI AI Officia (Intellectus, Lingua, Visio, Loquela), et apparatus eruditionis exempla. Ductio technica praebetur ad exemplar institutionis, instruere, et integratio ut inconsutilem interoperabilitatem cum systematibus exsistentibus curet.",
         "tools": [ "Oracle Cloud Infrastructure (OCI)", "Oracle AI Services", "Oracle Digital Assistant", "OCI Data Science", "Oracle Autonomous Database", "Oracle APEX", "Python", "Conda", "TensorFlow", "PyTorch", "Jupyter", "Trae", "REST APIs", "Postman", "Open WebUI", "Visual Studio Code" ]
